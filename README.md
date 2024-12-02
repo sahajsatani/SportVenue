@@ -1,4 +1,4 @@
-# **Project Playo.co**
+# **Project SportVenue.co**
 
 ## A sports community website cloning project by **Team Eureka**
 
