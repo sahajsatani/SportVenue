@@ -11,12 +11,12 @@ A one week project for cloning the **playo.co** website.
 
 ## Contributors
 
-- Bishal Samanta [@bishal-Samanta](https://github.com/bishal-Samanta/)
-- Shivangi Mall as [@smdp365](https://github.com/smdp365)
-- Abhijeet Dharme as [@abhidharme](https://github.com/abhidharme)
-- Abhishek Vasant Satpute as [@abhisheksatpute369](https://github.com/abhisheksatpute369)
-- K Mahesh Shiva Goud as [@msg-1](https://github.com/msg-1)
-- Rahul Hooda as [@Babaji0007](https://github.com/Babaji0007) 
+- Sahaj Satani as [@sahajsatani](https://github.com/sahajsatani)
+- Tirth Balar as [@username](link of account)
+- Paril Timbadiya as [@username](link of account)
+- Darshan virani as [@username](link of account)
+- Mit Kalathiya as [@username](link of account)
+- Ruto Kakadiya as [@username](link of account)
 
 ## Roles
 - Bishal (Team Leader)- Blog page with news Api work , Dtabase creating , Book venues page, Venue details page , Filter Function , Payment Gateway Integration, Login Functionalities, Media Queries
